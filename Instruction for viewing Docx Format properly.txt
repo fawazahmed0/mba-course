@@ -1,0 +1,12 @@
+PC:
+----------
+- In MS-Word, go to View Tab -> Click Web Layout
+
+Android:
+----------
+- Use Google Docs https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en_IN&gl=US app to view properly
+
+Iphone:
+----------
+- Use [Google Docs](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640) App
+
