@@ -3,6 +3,8 @@
 ### MBA Study Material:
 [Download](https://github.com/fawazahmed0/mba-course/releases/latest/download/mba-course.zip)
 
+
+
 ### MBA Course Structure:
 
 ![Course Structure Page 1](https://github.com/fawazahmed0/mba-course/raw/main/Course%20Structure_Page_1.jpg)
