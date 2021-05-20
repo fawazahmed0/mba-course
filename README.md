@@ -7,7 +7,8 @@
 
 
 #### Instruction for viewing Docx Format properly:
-**PC:**
-1. In MS-Word, go to View Tab -> Click Web Layout
-**Android:**
-Use [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en_IN&gl=US) app to view properly
+
+##### PC:
+- In MS-Word, go to View Tab -> Click Web Layout
+##### Android:
+- Use [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en_IN&gl=US) app to view properly
