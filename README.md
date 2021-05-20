@@ -1,5 +1,8 @@
 # MBA(Systems Specialization) Course
 
+### MBA Study Material:
+[Download](https://github.com/fawazahmed0/mba-course/releases/latest/download/mba-course.zip)
+
 ### MBA Course Structure:
 
 ![Course Structure Page 1](https://github.com/fawazahmed0/mba-course/raw/main/Course%20Structure_Page_1.jpg)
@@ -20,6 +23,6 @@
 
 
 ### Donate:
-Please do consider donating, if this was helpful to you:
+Please do consider donating, if this was helpful to you:<br>
 https://fawazahmed0.github.io/donate
 
