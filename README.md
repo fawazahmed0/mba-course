@@ -24,7 +24,7 @@
 - Use [Google Docs](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640) App
 
 
-### Donate:
-Please do consider donating, if this was helpful to you:<br>
+### Donate($3 or more):
+Please do consider donating $3 or more, if this was helpful to you:<br>
 https://fawazahmed0.github.io/donate
 
