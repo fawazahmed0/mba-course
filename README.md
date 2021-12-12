@@ -23,9 +23,3 @@
 ##### Iphone:
 - Use [Google Docs](https://apps.apple.com/us/app/google-docs-sync-edit-share/id842842640) App
 
-
-### Support:
-You can help support my work by as little as $3<br>
-
-[Support Link](https://fawazahmed0.github.io/donate)
-
